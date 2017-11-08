@@ -1,0 +1,10 @@
+name: EasyTree
+main: com.gmail.risen619.easytree.Main
+version: 1.0.0
+commands:
+    etdisable:
+        description: Disables fast cutter.
+        usage: /<command>
+    etenable:
+        description: Enables fast cutter.
+        usage: /<command>
